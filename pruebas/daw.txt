@@ -1,2 +1,4 @@
 Programacion
 Base de Datos
+Desarrollo Aplicaciones Web Servidor
+Desarrollo de Aplicaciones Cliente
